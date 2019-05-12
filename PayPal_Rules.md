@@ -1,7 +1,6 @@
 # Hidden PayPal Rules
 ### Or: How to prevent trouble with PayPal
 ###### Ver. 0.9 | Last updated: 22.04.2019 (dd.mm.yyyy)
-###### Authors: Wolf & Classic
 
 ***
 
